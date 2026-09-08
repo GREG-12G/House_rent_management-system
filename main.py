@@ -1,0 +1,8 @@
+print("House Rent Management System")  
+print("______________________________")
+print("1. Add House")
+print("2. Add Tenant")
+print("3. Record House Payment")
+print("4. View House")
+print("5. View Tenant")
+print("6. Exit")
